@@ -7,7 +7,7 @@
 
 ## 🔗 Live Demo
 👉 [Live Demo - Netlify](https://gleeful-trifle-007b00.netlify.app)
-👉 [Live Demo - GitHub Pages](https://github.com/iswarya0811/SignBridge_Hackarena.2.0)
+👉 [Live Demo - GitHub Pages](https://github.com/iswarya0811/SignBridge_AI)
 ---
 
 ## 🎯 Problem Statement
